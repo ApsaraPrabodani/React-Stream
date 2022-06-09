@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is great",
+      "id": 1
+    },
+    {
+      "title": "halooooo edit",
+      "description": "there",
+      "userId": "110777175168087971982",
+      "id": 3
+    },
+    {
+      "title": "Programatic navigation edit",
+      "description": "check navigation edit",
+      "id": 4
+    }
+  ]
+}
